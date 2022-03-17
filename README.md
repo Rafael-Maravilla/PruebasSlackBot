@@ -1,2 +1,2 @@
 # PruebasSlackBot
-Repositorio para manejo de bot con Django
+Repositorio para realizar pruebas y practicas de bot con Django
